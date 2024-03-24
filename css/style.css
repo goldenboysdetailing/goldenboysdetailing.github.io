@@ -1021,7 +1021,7 @@ img.image_1 {
     padding-left: 20px;
 }
 
-.client_img {}
+/* .client_img {} */
 
 .testimonial_text {
     width: 100%;
@@ -1276,6 +1276,10 @@ input.Enter_text::placeholder {
     color: #000;
     margin: 0px;
     padding-top: 10px;
+}
+
+.orange-dot{
+    color: #f17b24;
 }
 
 .location_text {
